@@ -1,0 +1,28 @@
+{
+    "name": "Brain Revolution X",
+    "symbol": "BRTX",
+    "description": "Brain Revolution X (BRTX) is a Solana-based token that combines the creativity of meme culture with real-world utility. Designed for forward-thinking traders and innovators, BRTX aims to build a decentralized community driven by knowledge, ideas, and collective action. It represents a digital movement powered by intelligence and freedom.",
+    "image": "ipfs://bafkreic6vggtveh6wudp5yhaa7nbtebm5snis6dm7qnuouvz6ggryzsnxm",
+    "extensions": {
+        "website": "https://degenbrain.io",
+        "telegram": "https://t.me/BrainRevolutionX",
+        "twitter": "https://x.com/DegenbrainDegen",
+        "tiktok": "https://tiktok.com/@brainrevolutionx"
+    },
+    "seller_fee_basis_points": 0,
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://bafkreic6vggtveh6wudp5yhaa7nbtebm5snis6dm7qnuouvz6ggryzsnxm",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "FTT1YddxR4RcVFMToHinWSUAQZ12UQSQKF2dUWjCkiGK",
+                "share": 100
+            }
+        ]
+    }
+}
