@@ -34,7 +34,7 @@ Welcome to the official repository of **Brain Revolution X (BRTX)** — a cuttin
 - ✅ Update Authority Maintained
 - 🔐 1,100,000,000 BRTX are time-locked in this wallet:
   `o2tJfjRw6V1Y1r4a1Dq4t2scTXTeR7D89NoXuXVSUpG`
-- ⏳ Lock expires in: **395 days** (until 2026-07-20)
+- ⏳ Lock expires in: **547 days** (until 2026-07-20)
 - 💸 Trading Taxes: **0%** (Team earns from LP fees only)
 - 📉 Initial Price: ~0.000000909 USD (based on 1 SOL = $150)
 
