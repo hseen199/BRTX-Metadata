@@ -29,55 +29,69 @@ Welcome to the official repository of **Brain Revolution X (BRTX)** — a cuttin
 
 ## 🔐 Transparency & Security
 
-- ✅ Mint Authority Revoked
-- ✅ Freeze Authority Revoked
-- ✅ Update Authority Maintained
-- 🔐 1,100,000,000 BRTX are time-locked in this wallet:
-  `o2tJfjRw6V1Y1r4a1Dq4t2scTXTeR7D89NoXuXVSUpG`
-- ⏳ Lock expires in: **547 days** (until 2026-07-20)
-- 💸 Trading Taxes: **0%** (Team earns from LP fees only)
-- 📉 Initial Price: ~0.000000909 USD (based on 1 SOL = $150)
+- ✅ Mint Authority Revoked  
+- ✅ Freeze Authority Revoked  
+- ✅ Update Authority Maintained  
+- 🔐 1,100,000,000 BRTX are time-locked in this wallet:  
+  `o2tJfjRw6V1Y1r4a1Dq4t2scTXTeR7D89NoXuXVSUpG`  
+- ⏳ Lock expires in: **547 days** (until 2026-07-20)  
+- 💸 Trading Taxes: **0%** (Team earns from LP fees only)  
+- 📉 Initial Price: ~0.000000909 USD (based on 1 SOL = $150)  
 
 ---
 
 ## 🌐 Official Links
 
-- 🌍 Website: [https://degenbrain.io](https://degenbrain.io)
-- 📣 Telegram: [https://t.me/BrainRevolutionX](https://t.me/BrainRevolutionX)
-- 🎥 TikTok: [https://www.tiktok.com/@brainrevolutionx](https://www.tiktok.com/@brainrevolutionx)
-- 🐦 Twitter (X): [https://x.com/DegenbrainDegen](https://x.com/DegenbrainDegen)
+- 🌍 Website: [https://degenbrain.io](https://degenbrain.io)  
+- 📣 Telegram: [https://t.me/BrainRevolutionX](https://t.me/BrainRevolutionX)  
+- 🎥 TikTok: [https://www.tiktok.com/@brainrevolutionx](https://www.tiktok.com/@brainrevolutionx)  
+- 🐦 Twitter (X): [https://x.com/DegenbrainDegen](https://x.com/DegenbrainDegen)  
 
 ---
 
-## 📄 Whitepaper
+## 📂 Repository Contents & Usage
 
-The official whitepaper is available here:  
-➡️ [BRTX_Whitepaper_EN.pdf](./BRTX_Whitepaper_EN.pdf)
+This repository contains:
 
----
+- Token metadata JSON files describing the project details and links.  
+- Token logos and images in various resolutions for platform use.  
+- Update scripts to help you upload metadata to IPFS and update the token's on-chain metadata.
 
-## 📂 Repository Structure
+### How to Use
 
-```
-├── README.md
-├── LICENSE
-├── brtx_metadata.json
-├── brtx-logo-256x256.png
-├── brtx-logo-512x512.png
-├── BRTX_Whitepaper_EN.pdf
-├── scripts/
-│   ├── update_brtx.js
-│   └── revoke_freeze.js
-```
+1. **Update Metadata Files**  
+   Modify the JSON metadata files as needed.  
+   Upload updated files to IPFS (using Pinata or NFT.Storage) to get permanent CID links.  
+   Update URIs in the JSON accordingly.
 
----
+2. **Upload Metadata to IPFS**  
+   Use services such as [Pinata](https://pinata.cloud) or [NFT.Storage](https://nft.storage).  
+   Keep track of the CID links for smart contract updates.
 
-## 🤝 Credits
-
-This project is led by **Tha’er X** — a visionary leader focused on reshaping the crypto narrative with transparency, honesty, and a strong community foundation.
+3. **Update On-chain Metadata**  
+   Use included scripts (e.g., `update_brtx.js`) or libraries like `@metaplex-foundation/js` to update the token metadata URI on Solana.  
+   Ensure the wallet has update authority.
 
 ---
 
-## 🛠 License
+## 🤝 Contribution & Support
+
+Contributions are welcome!  
+Please open issues or submit pull requests to help improve the project.
+
+---
+
+## 📄 License
 
 This repository is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 📩 Contact
+
+For inquiries or support, reach out via official channels or email:  
+`contact@degenbrain.io`
+
+---
+
+Thank you for supporting **Brain Revolution X (BRTX)**!
