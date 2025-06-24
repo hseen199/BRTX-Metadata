@@ -1,28 +1,25 @@
 {
-    "name": "Brain Revolution X",
-    "symbol": "BRTX",
-    "description": "Brain Revolution X (BRTX) is a Solana-based token that combines the creativity of meme culture with real-world utility. Designed for forward-thinking traders and innovators, BRTX aims to build a decentralized community driven by knowledge, ideas, and collective action. It represents a digital movement powered by intelligence and freedom.",
-    "image": "ipfs://bafkreic6vggtveh6wudp5yhaa7nbtebm5snis6dm7qnuouvz6ggryzsnxm",
-    "extensions": {
-        "website": "https://degenbrain.io",
-        "telegram": "https://t.me/BrainRevolutionX",
-        "twitter": "https://x.com/DegenbrainDegen",
-        "tiktok": "https://tiktok.com/@brainrevolutionx"
-    },
-    "seller_fee_basis_points": 0,
-    "properties": {
-        "files": [
-            {
-                "uri": "ipfs://bafkreic6vggtveh6wudp5yhaa7nbtebm5snis6dm7qnuouvz6ggryzsnxm",
-                "type": "image/png"
-            }
-        ],
-        "category": "image",
-        "creators": [
-            {
-                "address": "FTT1YddxR4RcVFMToHinWSUAQZ12UQSQKF2dUWjCkiGK",
-                "share": 100
-            }
-        ]
-    }
+  "name": "Brain Revolution X",
+  "symbol": "BRTX",
+  "description": "🧠 Official description of the BRTX project:\\nBrain Revolution X (BRTX) is a revolutionary project on the Solana network aiming to rebuild trust in the emerging digital currency market through absolute transparency, full clarity, and smart technological infrastructure.\\n\\nBRTX is more than just a meme coin; it is the core of a digital organization based on a real community, clear code, and a long-term practical vision.\\n\\n🔹 What sets us apart: No false promises, no hidden minting, no taxes, and no centralized authorities. Everything is open, documented, and publicly accessible.\\n\\n🔹 Future vision: The project is not limited to issuing a token only but aims to establish a Web3-native company specialized in developing AI-based trading tools, including:\\n- Bots that automatically verify smart contracts and detect risks and scams (like Rug Pulls).\\n- Smart dashboards providing users with real-time analytics on liquidity, changes, and risks.\\n- Machine learning-powered recommendation systems to help traders make better decisions.\\n- Community tools to incentivize participation and distribute rewards to loyal early users.\\n\\n🔹 Why BRTX? Because we start from zero without secrets, building step-by-step based on trust, no fake hype. We don’t sell a dream; we offer a product in progress with rare transparency in this market.",
+  "image": "ipfs://bafkreic6vggtveh6wudp5yhaa7nbtebm5snis6dm7qnuouvz6ggryzsnxm",
+  "extensions": {
+    "website": "https://degenbrain.io"
+  },
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "ipfs://bafkreic6vggtveh6wudp5yhaa7nbtebm5snis6dm7qnuouvz6ggryzsnxm",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FTT1YddxR4RcVFMToHinWSUAQZ12UQSQKF2dUWjCkiGK",
+        "share": 100
+      }
+    ]
+  }
 }
