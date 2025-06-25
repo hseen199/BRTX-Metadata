@@ -58,20 +58,6 @@ This repository contains:
 - Update scripts to help you upload metadata to IPFS and update the token's on-chain metadata.
 
 ### How to Use
-
-1. **Update Metadata Files**  
-   Modify the JSON metadata files as needed.  
-   Upload updated files to IPFS (using Pinata or NFT.Storage) to get permanent CID links.  
-   Update URIs in the JSON accordingly.
-
-2. **Upload Metadata to IPFS**  
-   Use services such as [Pinata](https://pinata.cloud) or [NFT.Storage](https://nft.storage).  
-   Keep track of the CID links for smart contract updates.
-
-3. **Update On-chain Metadata**  
-   Use included scripts (e.g., `update_brtx.js`) or libraries like `@metaplex-foundation/js` to update the token metadata URI on Solana.  
-   Ensure the wallet has update authority.
-
 ---
 
 ## 🤝 Contribution & Support
