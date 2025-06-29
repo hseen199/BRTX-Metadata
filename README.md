@@ -19,7 +19,7 @@ Welcome to the official repository of **Brain Revolution X (BRTX)** — a cuttin
 | Network               | Solana                                              |
 | Token Type            | SPL Token                                           |
 | Decimals              | 9                                                   |
-| Total Supply          | 1,486,086,541 BRTX                                  |
+| Total Supply          | 1,484,086,541 BRTX                                  |
 | Launch Date           | 20-06-2025                                          |
 | Mint Address          | `FTT1YddxR4RcVFMToHinWSUAQZ12UQSQKF2dUWjCkiGK`       |
 | Metadata CID (IPFS)   | `bafkreif4a257wm5uzhma3fyb7g4zfuzszsankojwp5qhstfqpp3bmswpq4` |
